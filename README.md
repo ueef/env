@@ -1,1 +1,2 @@
-# env
+# Env
+Primitive environment manager

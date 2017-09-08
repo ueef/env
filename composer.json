@@ -1,0 +1,14 @@
+{
+  "name": "ueef/env",
+  "type": "library",
+  "description": "Primitive environment manager",
+  "require": {
+    "php": "^7.1",
+    "ueef/assignable": "^0.0.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ueef\\Env\\": "src/"
+    }
+  }
+}
